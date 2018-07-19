@@ -4,12 +4,18 @@ A bunch of tests on Snapchat [Lens Studio](https://lensstudio.snapchat.com/)
 
 ---
 
-## Sky remove
+## Sky remove (blue remove)
 not published
 
 <p align="center">
-  <a href="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove.gif">
-    <img alt="sky-remove" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove.gif?raw=true" width="200">
+  <a href="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove.gif">
+    <img alt="sky-remove" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove.gif?raw=true" width="200">
+  </a>
+  <a href="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove.jpeg">
+    <img alt="sky-remove" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove.jpeg?raw=true" width="200">
+  </a>
+  <a href="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove2.gif">
+    <img alt="sky-remove" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/sky-remove/sky-remove2.gif?raw=true" width="200">
   </a>
 </p>
 
