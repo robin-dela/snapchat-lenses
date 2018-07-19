@@ -48,9 +48,9 @@ Updated version of my Pixelated lens with the use of masking and face tracking \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=efbf6c56f6f546b89cf53f911516c141&metadata=01)
 
 <p align="center">
-    <img alt="censored" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/censored/censored1.png?raw=true" width="200"/>
+    <img alt="censored" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/censored/censored1.jpg?raw=true" width="200"/>
     <img alt="censored" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/censored/censored.jpg?raw=true" width="200"/>
-    <img alt="censored" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/censored/censored2.png?raw=true" width="200"/>
+    <img alt="censored" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/censored/censored2.jpg?raw=true" width="200"/>
 </p>
 
 ---
@@ -72,9 +72,9 @@ Animated gradient effect \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=35ed1786800e49b18d173dd38ddf9450&metadata=01)
 
 <p align="center">
-    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient.png?raw=true" width="200"/>
-    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient1.png?raw=true" width="200"/>
-    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient2.png?raw=true" width="200"/>
+    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient.jpg?raw=true" width="200"/>
+    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient1.jpg?raw=true" width="200"/>
+    <img alt="gradient" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/gradient/gradient2.jpg?raw=true" width="200"/>
 </p>
 
 
@@ -123,7 +123,7 @@ First lens made, tried to replicate the drop of the [Resn website](http://resn.c
 
 <p align="center">
     <img alt="resn-drop" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/resn-drop/resn-drop.gif?raw=true" width="200"/>
-    <img alt="resn-drop" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/resn-drop/resn-drop.png?raw=true" width="200"/>
+    <img alt="resn-drop" src="https://github.com/robin-dela/snapchat-lenses/blob/master/previews/resn-drop/resn-drop.jpg?raw=true" width="200"/>
 </p>
 
 
