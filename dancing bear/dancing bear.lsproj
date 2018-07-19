@@ -1,7 +1,7 @@
 {
     "lens_id": "",
     "version": "0",
-    "lastChanged": "1529670470859",
+    "lastChanged": "1531998149508",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -681,9 +681,6 @@
                         "teddyzsphere_unfold3d"
                     ],
                     [
-                        "Scripts"
-                    ],
-                    [
                         "Textures"
                     ],
                     [
@@ -700,9 +697,7 @@
                     "1508869195718675:43809",
                     "1508869195770120:43953",
                     "1529669631886717:11303",
-                    "1529669685322848:15757",
-                    "1529669754682390:27347",
-                    "1529669754686339:27379"
+                    "1529669685322848:15757"
                 ]
             ]
         },
@@ -1874,7 +1869,7 @@
                     "additionalProperties": {
                         "name": "Material #26"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -1886,7 +1881,7 @@
                     "additionalProperties": {
                         "name": "Material #26"
                     },
-                    "flags": "1",
+                    "flags": "5",
                     "type": "2",
                     "subtype": "0"
                 },
@@ -4141,478 +4136,8 @@
                                 "groups": "",
                                 "resources": [
                                     {
-                                        "name": "Bip01 L Foot",
-                                        "resourceId": "318",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Foot_2",
-                                        "resourceId": "319",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftHand",
-                                        "resourceId": "320",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftHand_2",
-                                        "resourceId": "321",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftForeArm",
-                                        "resourceId": "322",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftForeArm_2",
-                                        "resourceId": "323",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Clavicle",
-                                        "resourceId": "324",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Clavicle_2",
-                                        "resourceId": "325",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Clavicle_3",
-                                        "resourceId": "326",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightUpLeg",
-                                        "resourceId": "327",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightUpLeg_2",
-                                        "resourceId": "328",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftHipEffector",
-                                        "resourceId": "329",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftHipEffector_2",
-                                        "resourceId": "330",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftFoot",
-                                        "resourceId": "331",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftFoot_2",
-                                        "resourceId": "332",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftShoulderEffector",
-                                        "resourceId": "333",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftShoulderEffector_2",
-                                        "resourceId": "334",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHeadEffector",
-                                        "resourceId": "335",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHeadEffector_2",
-                                        "resourceId": "336",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightShoulderEffector",
-                                        "resourceId": "337",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightShoulderEffector_2",
-                                        "resourceId": "338",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlChestEndEffector",
-                                        "resourceId": "339",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlChestEndEffector_2",
-                                        "resourceId": "340",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlChestOriginEffector",
-                                        "resourceId": "341",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlChestOriginEffector_2",
-                                        "resourceId": "342",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightElbowEffector",
-                                        "resourceId": "343",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightElbowEffector_2",
-                                        "resourceId": "344",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightHipEffector",
-                                        "resourceId": "345",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightHipEffector_2",
-                                        "resourceId": "346",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Thigh",
-                                        "resourceId": "347",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Thigh_2",
-                                        "resourceId": "348",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Thigh_3",
-                                        "resourceId": "349",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Calf",
-                                        "resourceId": "350",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Calf_2",
-                                        "resourceId": "351",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Calf_3",
-                                        "resourceId": "352",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightKneeEffector",
-                                        "resourceId": "353",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightKneeEffector_2",
-                                        "resourceId": "354",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Head",
-                                        "resourceId": "355",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Head_2",
-                                        "resourceId": "356",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHips",
-                                        "resourceId": "357",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHips_2",
-                                        "resourceId": "358",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightAnkleEffector",
-                                        "resourceId": "359",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightAnkleEffector_2",
-                                        "resourceId": "360",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlSpine1",
-                                        "resourceId": "361",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlSpine1_2",
-                                        "resourceId": "362",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlSpine",
-                                        "resourceId": "363",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlSpine_2",
-                                        "resourceId": "364",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftWristEffector",
-                                        "resourceId": "365",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftWristEffector_2",
-                                        "resourceId": "366",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftAnkleEffector",
-                                        "resourceId": "367",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftAnkleEffector_2",
-                                        "resourceId": "368",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHipsEffector",
-                                        "resourceId": "369",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHipsEffector_2",
-                                        "resourceId": "370",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHead",
-                                        "resourceId": "371",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlHead_2",
-                                        "resourceId": "372",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlNeck",
-                                        "resourceId": "373",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlNeck_2",
-                                        "resourceId": "374",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftShoulder",
-                                        "resourceId": "375",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftShoulder_2",
-                                        "resourceId": "376",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Clavicle",
-                                        "resourceId": "377",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Clavicle_2",
-                                        "resourceId": "378",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Clavicle_3",
-                                        "resourceId": "379",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Spine1",
-                                        "resourceId": "380",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Spine1_2",
-                                        "resourceId": "381",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Spine1_3",
-                                        "resourceId": "382",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Foot",
-                                        "resourceId": "383",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Foot_2",
-                                        "resourceId": "384",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftArm",
-                                        "resourceId": "385",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftArm_2",
-                                        "resourceId": "386",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L UpperArm",
-                                        "resourceId": "387",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L UpperArm_2",
-                                        "resourceId": "388",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L UpperArm_3",
-                                        "resourceId": "389",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightArm",
-                                        "resourceId": "390",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightArm_2",
-                                        "resourceId": "391",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightFoot",
-                                        "resourceId": "392",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightFoot_2",
-                                        "resourceId": "393",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightForeArm",
-                                        "resourceId": "394",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightForeArm_2",
-                                        "resourceId": "395",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftUpLeg",
-                                        "resourceId": "396",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftUpLeg_2",
-                                        "resourceId": "397",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightHand",
-                                        "resourceId": "398",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightHand_2",
-                                        "resourceId": "399",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightWristEffector",
-                                        "resourceId": "400",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightWristEffector_2",
-                                        "resourceId": "401",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightShoulder",
-                                        "resourceId": "402",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightShoulder_2",
-                                        "resourceId": "403",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftLeg",
-                                        "resourceId": "404",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftLeg_2",
-                                        "resourceId": "405",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Hand",
-                                        "resourceId": "406",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 R Hand_2",
-                                        "resourceId": "407",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlReference",
-                                        "resourceId": "408",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlReference_2",
-                                        "resourceId": "409",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftElbowEffector",
-                                        "resourceId": "410",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftElbowEffector_2",
-                                        "resourceId": "411",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01",
-                                        "resourceId": "412",
+                                        "name": "Bip01_3",
+                                        "resourceId": "414",
                                         "extension": ""
                                     },
                                     {
@@ -4621,8 +4146,8 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01_3",
-                                        "resourceId": "414",
+                                        "name": "Bip01",
+                                        "resourceId": "412",
                                         "extension": ""
                                     },
                                     {
@@ -4631,33 +4156,8 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01_CtrlLeftKneeEffector",
-                                        "resourceId": "416",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlLeftKneeEffector_2",
-                                        "resourceId": "417",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Forearm",
-                                        "resourceId": "418",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Forearm_2",
-                                        "resourceId": "419",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Forearm_3",
-                                        "resourceId": "420",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Spine",
-                                        "resourceId": "421",
+                                        "name": "Bip01 Spine_3",
+                                        "resourceId": "423",
                                         "extension": ""
                                     },
                                     {
@@ -4666,58 +4166,8 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 Spine_3",
-                                        "resourceId": "423",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Calf",
-                                        "resourceId": "424",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Calf_2",
-                                        "resourceId": "425",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Calf_3",
-                                        "resourceId": "426",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Neck",
-                                        "resourceId": "427",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Neck_2",
-                                        "resourceId": "428",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 Neck_3",
-                                        "resourceId": "429",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightLeg",
-                                        "resourceId": "430",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01_CtrlRightLeg_2",
-                                        "resourceId": "431",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Thigh",
-                                        "resourceId": "432",
-                                        "extension": ""
-                                    },
-                                    {
-                                        "name": "Bip01 L Thigh_2",
-                                        "resourceId": "433",
+                                        "name": "Bip01 Spine",
+                                        "resourceId": "421",
                                         "extension": ""
                                     },
                                     {
@@ -4726,23 +4176,153 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 R UpperArm",
-                                        "resourceId": "435",
+                                        "name": "Bip01 L Thigh_2",
+                                        "resourceId": "433",
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 R UpperArm_2",
-                                        "resourceId": "436",
+                                        "name": "Bip01 L Thigh",
+                                        "resourceId": "432",
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 R UpperArm_3",
-                                        "resourceId": "437",
+                                        "name": "Bip01 L Calf_3",
+                                        "resourceId": "426",
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 L Hand",
-                                        "resourceId": "438",
+                                        "name": "Bip01 L Calf_2",
+                                        "resourceId": "425",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Calf",
+                                        "resourceId": "424",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Foot_2",
+                                        "resourceId": "319",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Foot",
+                                        "resourceId": "318",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Thigh_3",
+                                        "resourceId": "349",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Thigh_2",
+                                        "resourceId": "348",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Thigh",
+                                        "resourceId": "347",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Calf_3",
+                                        "resourceId": "352",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Calf_2",
+                                        "resourceId": "351",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Calf",
+                                        "resourceId": "350",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Foot_2",
+                                        "resourceId": "384",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Foot",
+                                        "resourceId": "383",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Spine1_3",
+                                        "resourceId": "382",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Spine1_2",
+                                        "resourceId": "381",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Spine1",
+                                        "resourceId": "380",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Neck_3",
+                                        "resourceId": "429",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Neck_2",
+                                        "resourceId": "428",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Neck",
+                                        "resourceId": "427",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Clavicle_3",
+                                        "resourceId": "379",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Clavicle_2",
+                                        "resourceId": "378",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Clavicle",
+                                        "resourceId": "377",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L UpperArm_3",
+                                        "resourceId": "389",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L UpperArm_2",
+                                        "resourceId": "388",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L UpperArm",
+                                        "resourceId": "387",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Forearm_3",
+                                        "resourceId": "420",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Forearm_2",
+                                        "resourceId": "419",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 L Forearm",
+                                        "resourceId": "418",
                                         "extension": ""
                                     },
                                     {
@@ -4751,8 +4331,43 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 R Forearm",
-                                        "resourceId": "440",
+                                        "name": "Bip01 L Hand",
+                                        "resourceId": "438",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Clavicle_3",
+                                        "resourceId": "326",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Clavicle_2",
+                                        "resourceId": "325",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Clavicle",
+                                        "resourceId": "324",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R UpperArm_3",
+                                        "resourceId": "437",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R UpperArm_2",
+                                        "resourceId": "436",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R UpperArm",
+                                        "resourceId": "435",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Forearm_3",
+                                        "resourceId": "442",
                                         "extension": ""
                                     },
                                     {
@@ -4761,8 +4376,388 @@
                                         "extension": ""
                                     },
                                     {
-                                        "name": "Bip01 R Forearm_3",
-                                        "resourceId": "442",
+                                        "name": "Bip01 R Forearm",
+                                        "resourceId": "440",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Hand_2",
+                                        "resourceId": "407",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 R Hand",
+                                        "resourceId": "406",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Head_2",
+                                        "resourceId": "356",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01 Head",
+                                        "resourceId": "355",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlReference_2",
+                                        "resourceId": "409",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlReference",
+                                        "resourceId": "408",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHips_2",
+                                        "resourceId": "358",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHips",
+                                        "resourceId": "357",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftUpLeg_2",
+                                        "resourceId": "397",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftUpLeg",
+                                        "resourceId": "396",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftLeg_2",
+                                        "resourceId": "405",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftLeg",
+                                        "resourceId": "404",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftFoot_2",
+                                        "resourceId": "332",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftFoot",
+                                        "resourceId": "331",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightUpLeg_2",
+                                        "resourceId": "328",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightUpLeg",
+                                        "resourceId": "327",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightLeg_2",
+                                        "resourceId": "431",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightLeg",
+                                        "resourceId": "430",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightFoot_2",
+                                        "resourceId": "393",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightFoot",
+                                        "resourceId": "392",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlSpine_2",
+                                        "resourceId": "364",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlSpine",
+                                        "resourceId": "363",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlSpine1_2",
+                                        "resourceId": "362",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlSpine1",
+                                        "resourceId": "361",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftShoulder_2",
+                                        "resourceId": "376",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftShoulder",
+                                        "resourceId": "375",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftArm_2",
+                                        "resourceId": "386",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftArm",
+                                        "resourceId": "385",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftForeArm_2",
+                                        "resourceId": "323",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftForeArm",
+                                        "resourceId": "322",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftHand_2",
+                                        "resourceId": "321",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftHand",
+                                        "resourceId": "320",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightShoulder_2",
+                                        "resourceId": "403",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightShoulder",
+                                        "resourceId": "402",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightArm_2",
+                                        "resourceId": "391",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightArm",
+                                        "resourceId": "390",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightForeArm_2",
+                                        "resourceId": "395",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightForeArm",
+                                        "resourceId": "394",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightHand_2",
+                                        "resourceId": "399",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightHand",
+                                        "resourceId": "398",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlNeck_2",
+                                        "resourceId": "374",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlNeck",
+                                        "resourceId": "373",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHead_2",
+                                        "resourceId": "372",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHead",
+                                        "resourceId": "371",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHipsEffector_2",
+                                        "resourceId": "370",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHipsEffector",
+                                        "resourceId": "369",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftAnkleEffector_2",
+                                        "resourceId": "368",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftAnkleEffector",
+                                        "resourceId": "367",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightAnkleEffector_2",
+                                        "resourceId": "360",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightAnkleEffector",
+                                        "resourceId": "359",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftWristEffector_2",
+                                        "resourceId": "366",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftWristEffector",
+                                        "resourceId": "365",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightWristEffector_2",
+                                        "resourceId": "401",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightWristEffector",
+                                        "resourceId": "400",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftKneeEffector_2",
+                                        "resourceId": "417",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftKneeEffector",
+                                        "resourceId": "416",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightKneeEffector_2",
+                                        "resourceId": "354",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightKneeEffector",
+                                        "resourceId": "353",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftElbowEffector_2",
+                                        "resourceId": "411",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftElbowEffector",
+                                        "resourceId": "410",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightElbowEffector_2",
+                                        "resourceId": "344",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightElbowEffector",
+                                        "resourceId": "343",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlChestOriginEffector_2",
+                                        "resourceId": "342",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlChestOriginEffector",
+                                        "resourceId": "341",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlChestEndEffector_2",
+                                        "resourceId": "340",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlChestEndEffector",
+                                        "resourceId": "339",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftShoulderEffector_2",
+                                        "resourceId": "334",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftShoulderEffector",
+                                        "resourceId": "333",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightShoulderEffector_2",
+                                        "resourceId": "338",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightShoulderEffector",
+                                        "resourceId": "337",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHeadEffector_2",
+                                        "resourceId": "336",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlHeadEffector",
+                                        "resourceId": "335",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftHipEffector_2",
+                                        "resourceId": "330",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlLeftHipEffector",
+                                        "resourceId": "329",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightHipEffector_2",
+                                        "resourceId": "346",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "Bip01_CtrlRightHipEffector",
+                                        "resourceId": "345",
                                         "extension": ""
                                     }
                                 ]
@@ -4853,7 +4848,7 @@
         "InspectorController": {
             "selection": {
                 "objects": [
-                    "1529669754682255:27333"
+                    "103:100"
                 ]
             }
         },

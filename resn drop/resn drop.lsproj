@@ -1,7 +1,7 @@
 {
     "lens_id": "3104b727-0705-4293-b2da-33dd61c7f083",
     "version": "0",
-    "lastChanged": "1531987068847",
+    "lastChanged": "1531999506787",
     "preview": "icon.png",
     "isReadOnly": "false",
     "studioVersion": {
@@ -28,7 +28,13 @@
                         "Materials"
                     ],
                     [
+                        "Matte Shadow"
+                    ],
+                    [
                         "Meshes"
+                    ],
+                    [
+                        "Plane"
                     ],
                     [
                         "Textures"
@@ -298,37 +304,27 @@
                     "subtype": "0"
                 },
                 {
-                    "resId": "213",
-                    "uid": "1518613564189360:74141",
-                    "name": "\/Resources\/Resource213.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "3",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "214",
-                    "uid": "1518613564190266:74153",
-                    "name": "\/Resources\/Resource214.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "3",
-                    "type": "1",
-                    "subtype": "0"
-                },
-                {
-                    "resId": "215",
-                    "uid": "1518613564209205:74165",
-                    "name": "\/Resources\/Resource215",
+                    "resId": "216",
+                    "uid": "1531999044164635:182308",
+                    "name": "\/Resources\/Resource216",
                     "sourceFilePath": "",
                     "additionalProperties": {
                         "pass_source": [
-                            ""
+                            "\/Users\/steve.marton\/Snapchat\/Dev\/LensCore\/Resources\/CoreResources.bundle\/scenarium\/userShaders\/matte_shadow.glsl"
                         ]
                     },
-                    "flags": "3",
+                    "flags": "1",
                     "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "217",
+                    "uid": "1531999044165242:182320",
+                    "name": "\/Resources\/Resource217.mesh",
+                    "sourceFilePath": "\/Users\/steve.marton\/Snapchat\/Dev\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug-internal\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
                     "subtype": "0"
                 }
             ]
@@ -342,10 +338,12 @@
         },
         "RenderOrderComponent": {
             "autoRenderOrder": {
-                "0": "1510687407760041:19246",
-                "1": "1510687744155854:20850",
-                "2": "1518602599232172:3024",
-                "3": "1518602599239598:3026"
+                "0": "1510687744155854:20850",
+                "1": "1518602599232172:3024",
+                "2": "1518602599239598:3026",
+                "3": "1531998916905002:178896",
+                "4": "1531999044157135:182302",
+                "5": "1531999109100471:184956"
             }
         },
         "LayerComponent": {
@@ -369,30 +367,6 @@
         }
     },
     "controller": {
-        "InspectorController": {
-            "selection": {
-                "objects": [
-                    "1518602599239598:3026"
-                ]
-            }
-        },
-        "EffectsController": {
-            "1": "",
-            "2": "",
-            "3": "",
-            "4": "",
-            "5": "",
-            "6": "",
-            "7": "",
-            "8": "",
-            "10": "",
-            "12": ""
-        },
-        "ObjectPrefabController": {
-            "state": {
-                "objectToInfo": ""
-            }
-        },
         "ResourceController": {
             "tree": {
                 "name": "Root",
@@ -541,7 +515,18 @@
                         "resources": ""
                     }
                 ],
-                "resources": ""
+                "resources": [
+                    {
+                        "name": "Matte Shadow",
+                        "resourceId": "216",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "217",
+                        "extension": "mesh"
+                    }
+                ]
             },
             "publicAssets": [
                 {
@@ -595,8 +580,36 @@
                 {
                     "id": "179",
                     "path": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
+                },
+                {
+                    "id": "217",
+                    "path": "Plane.mesh"
                 }
             ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1531998916905002:178896"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
         }
     }
 }
