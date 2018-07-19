@@ -1,0 +1,358 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1531988266682",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "5",
+            "patch": "0",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "ParticleMaterials [EDIT_ME]",
+                        "World",
+                        "Fountain_Cartoon",
+                        "particle_fountain_splash [EDIT_ME]"
+                    ],
+                    [
+                        "ParticleResources"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes"
+                    ],
+                    [
+                        "ParticleResources",
+                        "Meshes",
+                        "emitter_1000"
+                    ],
+                    [
+                        "SceneResources"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures",
+                        "camera_output"
+                    ],
+                    [
+                        "SceneResources",
+                        "Textures",
+                        "device_camera_texture"
+                    ],
+                    [
+                        "WorldParticleController"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1519415449439637:101704",
+                    "1519422584841587:107362",
+                    "1519669156185514:176112",
+                    "1519669181855311:177002",
+                    "1519669203936432:177727",
+                    "1519669283031788:179525",
+                    "1519836920959040:3758",
+                    "1519836925492004:3773",
+                    "1519836929767521:3788",
+                    "1519836954302514:3807",
+                    "1519836970038015:4461",
+                    "1519837014158836:7157",
+                    "1519837023816269:7172",
+                    "1519856872900203:5345",
+                    "1519927663092820:9992",
+                    "1519927702540712:10010",
+                    "1519927708694158:10025",
+                    "1519928131877550:19490",
+                    "1519929904978458:39612",
+                    "1520297385015427:86081",
+                    "1520458657709193:40810"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "f00acf60393ad7d0507c991de8ba580c",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_look_around"
+            ],
+            "lens": "Stack",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1516752830754838:18872",
+                    "1520455552996932:22730",
+                    "1530888541590070:54036"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1512063260594199:26308",
+                    "name": "\/Resources\/Resource13.mesh",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "209",
+                    "uid": "1520296314821074:72706",
+                    "name": "\/Resources\/Resource209",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1529457461102680:45764",
+                    "name": "\/Resources\/Resource225.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "232",
+                    "uid": "1530891009828225:83482",
+                    "name": "\/Resources\/Resource232.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "233",
+                    "uid": "1530891009844186:83494",
+                    "name": "\/Resources\/Resource233",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1520013907737000:24669",
+                "1": "1529457490295112:49550",
+                "2": "1530888391386839:52683",
+                "3": "1530891009788160:83473"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1529457490295112:49550"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "ParticleResources",
+                        "groups": [
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "emitter_1000",
+                                        "resourceId": "13",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "SceneResources",
+                        "groups": [
+                            {
+                                "name": "Textures",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "camera_output",
+                                        "resourceId": "1",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "device_camera_texture",
+                                        "resourceId": "2",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "ParticleMaterials [EDIT_ME]",
+                        "groups": [
+                            {
+                                "name": "World",
+                                "groups": [
+                                    {
+                                        "name": "Fountain_Cartoon",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "particle_fountain_splash [EDIT_ME]",
+                                                "resourceId": "209",
+                                                "extension": ""
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": ""
+                            }
+                        ],
+                        "resources": ""
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "WorldParticleController",
+                        "resourceId": "225",
+                        "extension": "js"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "13",
+                    "path": "ParticleResources\/Meshes\/emitter_1000.mesh"
+                },
+                {
+                    "id": "225",
+                    "path": "WorldParticleController.js"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,1134 @@
+{
+    "lens_id": "26361eb5-ad9e-44d6-a223-695ed7246edf",
+    "version": "0",
+    "lastChanged": "1531730848792",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Box"
+                    ],
+                    [
+                        "Letters"
+                    ],
+                    [
+                        "Letters",
+                        "A"
+                    ],
+                    [
+                        "Letters",
+                        "B"
+                    ],
+                    [
+                        "Letters",
+                        "C"
+                    ],
+                    [
+                        "Letters",
+                        "D"
+                    ],
+                    [
+                        "Letters",
+                        "E"
+                    ],
+                    [
+                        "Letters",
+                        "F"
+                    ],
+                    [
+                        "Letters",
+                        "G"
+                    ],
+                    [
+                        "Letters",
+                        "H"
+                    ],
+                    [
+                        "Letters",
+                        "I"
+                    ],
+                    [
+                        "Letters",
+                        "J"
+                    ],
+                    [
+                        "Letters",
+                        "K"
+                    ],
+                    [
+                        "Letters",
+                        "L"
+                    ],
+                    [
+                        "Letters",
+                        "M"
+                    ],
+                    [
+                        "Letters",
+                        "N"
+                    ],
+                    [
+                        "Letters",
+                        "O"
+                    ],
+                    [
+                        "Letters",
+                        "P"
+                    ],
+                    [
+                        "Letters",
+                        "Q"
+                    ],
+                    [
+                        "Letters",
+                        "R"
+                    ],
+                    [
+                        "Letters",
+                        "S"
+                    ],
+                    [
+                        "Letters",
+                        "T"
+                    ],
+                    [
+                        "Letters",
+                        "U"
+                    ],
+                    [
+                        "Letters",
+                        "V"
+                    ],
+                    [
+                        "Letters",
+                        "W"
+                    ],
+                    [
+                        "Letters",
+                        "X"
+                    ],
+                    [
+                        "Letters",
+                        "Y"
+                    ],
+                    [
+                        "Letters",
+                        "Z"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Plane"
+                    ],
+                    [
+                        "Sprite Default"
+                    ],
+                    [
+                        "Sprite Default Textures"
+                    ],
+                    [
+                        "Sprite Default Textures",
+                        "Main"
+                    ],
+                    [
+                        "Unlit"
+                    ],
+                    [
+                        "Unlit Textures"
+                    ],
+                    [
+                        "Unlit Textures",
+                        "Base"
+                    ],
+                    [
+                        "empty"
+                    ],
+                    [
+                        "keyboard"
+                    ],
+                    [
+                        "manager"
+                    ],
+                    [
+                        "value"
+                    ],
+                    [
+                        "var"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "101:100",
+                    "1517446348227994:84813",
+                    "1531127782606491:6917",
+                    "1531220071282856:179484"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "3a9306413e164261b76b88da2814794a",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "AR Message",
+            "camera": "1",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1531127294761061:2951",
+                    "name": "\/Resources\/Resource10.mesh",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "13",
+                    "uid": "1531127316927017:3217",
+                    "name": "\/Resources\/Resource13.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1531127791655250:7046",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "22",
+                    "uid": "1531142509163106:76396",
+                    "name": "\/Resources\/Resource22",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1531142509163943:76408",
+                    "name": "\/Resources\/Resource23.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "24",
+                    "uid": "1531142581829220:78232",
+                    "name": "\/Resources\/Resource24.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1531142581836662:78244",
+                    "name": "\/Resources\/Resource25",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1531159246654317:4761",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1531159246722335:4796",
+                    "name": "\/Resources\/Resource30",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1531162227687232:68359",
+                    "name": "\/Resources\/Resource57.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/A.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1531162227791260:68372",
+                    "name": "\/Resources\/Resource58.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/B.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1531162227869565:68385",
+                    "name": "\/Resources\/Resource59.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/C.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1531162227966464:68398",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/D.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1531162228055849:68411",
+                    "name": "\/Resources\/Resource61.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/E.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "62",
+                    "uid": "1531162228135394:68424",
+                    "name": "\/Resources\/Resource62.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/F.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "63",
+                    "uid": "1531162228239097:68437",
+                    "name": "\/Resources\/Resource63.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/G.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1531162228326109:68450",
+                    "name": "\/Resources\/Resource64.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/H.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1531162228420192:68463",
+                    "name": "\/Resources\/Resource65.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/I.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "66",
+                    "uid": "1531162228507964:68476",
+                    "name": "\/Resources\/Resource66.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/J.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "67",
+                    "uid": "1531162228592733:68489",
+                    "name": "\/Resources\/Resource67.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/K.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "68",
+                    "uid": "1531162228686634:68502",
+                    "name": "\/Resources\/Resource68.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/L.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "69",
+                    "uid": "1531162228784830:68515",
+                    "name": "\/Resources\/Resource69.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/M.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "70",
+                    "uid": "1531162228888480:68528",
+                    "name": "\/Resources\/Resource70.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/N.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "71",
+                    "uid": "1531162228986286:68541",
+                    "name": "\/Resources\/Resource71.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/O.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "72",
+                    "uid": "1531162229085582:68554",
+                    "name": "\/Resources\/Resource72.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/P.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "73",
+                    "uid": "1531162229188247:68567",
+                    "name": "\/Resources\/Resource73.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/Q.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "74",
+                    "uid": "1531162229287498:68580",
+                    "name": "\/Resources\/Resource74.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/R.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "75",
+                    "uid": "1531162229371329:68593",
+                    "name": "\/Resources\/Resource75.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/S.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "76",
+                    "uid": "1531162229475648:68606",
+                    "name": "\/Resources\/Resource76.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/T.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "77",
+                    "uid": "1531162229581660:68619",
+                    "name": "\/Resources\/Resource77.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/U.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "78",
+                    "uid": "1531162229643815:68632",
+                    "name": "\/Resources\/Resource78.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/V.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "79",
+                    "uid": "1531162229740854:68645",
+                    "name": "\/Resources\/Resource79.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/W.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "80",
+                    "uid": "1531162229837652:68658",
+                    "name": "\/Resources\/Resource80.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/X.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "81",
+                    "uid": "1531162229927406:68671",
+                    "name": "\/Resources\/Resource81.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/Y.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "82",
+                    "uid": "1531162230009088:68684",
+                    "name": "\/Resources\/Resource82.png",
+                    "sourceFilePath": "\/Users\/Robin\/Desktop\/images\/Z.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "91",
+                    "uid": "1531220071297733:179496",
+                    "name": "\/Resources\/Resource91.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "92",
+                    "uid": "1531220071309450:179508",
+                    "name": "\/Resources\/Resource92",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "93",
+                    "uid": "1531223613591540:220413",
+                    "name": "\/Resources\/Resource93.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "94",
+                    "uid": "1531224480821995:277113",
+                    "name": "\/Resources\/Resource94.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/empty.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "95",
+                    "uid": "1531227464490623:334354",
+                    "name": "\/Resources\/Resource95.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/keyboard.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "96",
+                    "uid": "1531294136369374:22940",
+                    "name": "\/Resources\/Resource96.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1531127782606491:6917",
+                "1": "1531131093214607:22280",
+                "2": "1531139916723507:39475",
+                "3": "1531159246632444:4675",
+                "4": "1531159246654552:4770",
+                "5": "1531160263707352:25144",
+                "6": "1531160267505359:25831",
+                "7": "1531160278216227:26800",
+                "8": "1531160278227015:26854",
+                "9": "1531160278243238:26908",
+                "10": "1531160283096195:28216",
+                "11": "1531160283106843:28270",
+                "12": "1531160283127661:28324",
+                "13": "1531160283143745:28378",
+                "14": "1531160283159015:28432",
+                "15": "1531160283173060:28486",
+                "16": "1531160290721521:30838",
+                "17": "1531160290733846:30892",
+                "18": "1531160290754624:30946",
+                "19": "1531160290772380:31000",
+                "20": "1531160290786205:31054",
+                "21": "1531160290800061:31108",
+                "22": "1531160290815837:31162",
+                "23": "1531160290829539:31216",
+                "24": "1531160290844616:31270",
+                "25": "1531160290858948:31324",
+                "26": "1531160290872601:31378",
+                "27": "1531160290886257:31432",
+                "28": "1531160353354206:36987",
+                "29": "1531160375097891:40235",
+                "30": "1531165756593783:200402",
+                "31": "1531217859021442:81420",
+                "32": "1531220071282856:179484",
+                "33": "1531220071285690:179487",
+                "34": "1531223812772236:236480"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Letters",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "A",
+                                "resourceId": "57",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "B",
+                                "resourceId": "58",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "C",
+                                "resourceId": "59",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "D",
+                                "resourceId": "60",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "E",
+                                "resourceId": "61",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "F",
+                                "resourceId": "62",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "G",
+                                "resourceId": "63",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "H",
+                                "resourceId": "64",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "I",
+                                "resourceId": "65",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "J",
+                                "resourceId": "66",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "K",
+                                "resourceId": "67",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "L",
+                                "resourceId": "68",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "M",
+                                "resourceId": "69",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "N",
+                                "resourceId": "70",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "O",
+                                "resourceId": "71",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "P",
+                                "resourceId": "72",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Q",
+                                "resourceId": "73",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "R",
+                                "resourceId": "74",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "S",
+                                "resourceId": "75",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "T",
+                                "resourceId": "76",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "U",
+                                "resourceId": "77",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "V",
+                                "resourceId": "78",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "W",
+                                "resourceId": "79",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "X",
+                                "resourceId": "80",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Y",
+                                "resourceId": "81",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Z",
+                                "resourceId": "82",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Unlit Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "23",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Sprite Default Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Main",
+                                "resourceId": "24",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "10",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "value",
+                        "resourceId": "13",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "manager",
+                        "resourceId": "14",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Unlit",
+                        "resourceId": "22",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Sprite Default",
+                        "resourceId": "25",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "28",
+                        "extension": ""
+                    },
+                    {
+                        "name": "var",
+                        "resourceId": "93",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "empty",
+                        "resourceId": "94",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "keyboard",
+                        "resourceId": "95",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Box",
+                        "resourceId": "96",
+                        "extension": "mesh"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "10",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "13",
+                    "path": "value.js"
+                },
+                {
+                    "id": "14",
+                    "path": "manager.js"
+                },
+                {
+                    "id": "23",
+                    "path": "Unlit Textures\/Base.png"
+                },
+                {
+                    "id": "24",
+                    "path": "Sprite Default Textures\/Main.png"
+                },
+                {
+                    "id": "57",
+                    "path": "Letters\/A.png"
+                },
+                {
+                    "id": "58",
+                    "path": "Letters\/B.png"
+                },
+                {
+                    "id": "59",
+                    "path": "Letters\/C.png"
+                },
+                {
+                    "id": "60",
+                    "path": "Letters\/D.png"
+                },
+                {
+                    "id": "61",
+                    "path": "Letters\/E.png"
+                },
+                {
+                    "id": "62",
+                    "path": "Letters\/F.png"
+                },
+                {
+                    "id": "63",
+                    "path": "Letters\/G.png"
+                },
+                {
+                    "id": "64",
+                    "path": "Letters\/H.png"
+                },
+                {
+                    "id": "65",
+                    "path": "Letters\/I.png"
+                },
+                {
+                    "id": "66",
+                    "path": "Letters\/J.png"
+                },
+                {
+                    "id": "67",
+                    "path": "Letters\/K.png"
+                },
+                {
+                    "id": "68",
+                    "path": "Letters\/L.png"
+                },
+                {
+                    "id": "69",
+                    "path": "Letters\/M.png"
+                },
+                {
+                    "id": "70",
+                    "path": "Letters\/N.png"
+                },
+                {
+                    "id": "71",
+                    "path": "Letters\/O.png"
+                },
+                {
+                    "id": "72",
+                    "path": "Letters\/P.png"
+                },
+                {
+                    "id": "73",
+                    "path": "Letters\/Q.png"
+                },
+                {
+                    "id": "74",
+                    "path": "Letters\/R.png"
+                },
+                {
+                    "id": "75",
+                    "path": "Letters\/S.png"
+                },
+                {
+                    "id": "76",
+                    "path": "Letters\/T.png"
+                },
+                {
+                    "id": "77",
+                    "path": "Letters\/U.png"
+                },
+                {
+                    "id": "78",
+                    "path": "Letters\/V.png"
+                },
+                {
+                    "id": "79",
+                    "path": "Letters\/W.png"
+                },
+                {
+                    "id": "80",
+                    "path": "Letters\/X.png"
+                },
+                {
+                    "id": "81",
+                    "path": "Letters\/Y.png"
+                },
+                {
+                    "id": "82",
+                    "path": "Letters\/Z.png"
+                },
+                {
+                    "id": "93",
+                    "path": "var.js"
+                },
+                {
+                    "id": "94",
+                    "path": "empty.png"
+                },
+                {
+                    "id": "95",
+                    "path": "keyboard.png"
+                },
+                {
+                    "id": "96",
+                    "path": "Box.mesh"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1531127782606491:6917"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

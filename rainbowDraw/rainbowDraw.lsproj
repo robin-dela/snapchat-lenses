@@ -1,0 +1,335 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1521738748033",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "major": "1",
+            "minor": "0",
+            "patch": "1",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "6",
+                    "uid": "1521734598242875:1149",
+                    "name": "\/Resources\/Resource6.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "7",
+                    "uid": "1521734625674863:1267",
+                    "name": "\/Resources\/Resource7",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1521734625675433:1279",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1521734625676208:1291",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1521734625676707:1303",
+                    "name": "\/Resources\/Resource10.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1521734625677585:1315",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1521734625678617:1327",
+                    "name": "\/Resources\/Resource12.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1521734681450424:1620",
+                    "name": "\/Resources\/Resource14.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "15",
+                    "uid": "1521735791276184:4414",
+                    "name": "\/Resources\/Resource15.mesh",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Plane.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1521737778320637:92694",
+                    "name": "\/Resources\/Resource16.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/Screen Shot 2018-03-22 at 17.55.11.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1521737967722695:153175",
+                    "name": "\/Resources\/Resource17.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/Screen-Shot-2018-03-22-at-17.55.11.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1521734545896488:1027",
+                "1": "1521734598194491:1107"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "EffectsComponent": {
+            "6": "",
+            "7": ""
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "PBR Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "8",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "DiffuseEnvmap",
+                                "resourceId": "9",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "MaterialParams",
+                                "resourceId": "10",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Normal",
+                                "resourceId": "11",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "SpecularEnvmap",
+                                "resourceId": "12",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Script",
+                                "resourceId": "14",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "Screen Shot 2018-03-22 at 17",
+                                "resourceId": "16",
+                                "extension": "png"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Box",
+                        "resourceId": "6",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "PBR",
+                        "resourceId": "7",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Plane",
+                        "resourceId": "15",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Screen-Shot-2018-03-22-at-17",
+                        "resourceId": "17",
+                        "extension": "jpg"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "6",
+                    "path": "Box.mesh"
+                },
+                {
+                    "id": "8",
+                    "path": "PBR Textures\/Base.png"
+                },
+                {
+                    "id": "9",
+                    "path": "PBR Textures\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "10",
+                    "path": "PBR Textures\/MaterialParams.png"
+                },
+                {
+                    "id": "11",
+                    "path": "PBR Textures\/Normal.png"
+                },
+                {
+                    "id": "12",
+                    "path": "PBR Textures\/SpecularEnvmap.png"
+                },
+                {
+                    "id": "14",
+                    "path": "PBR Textures\/Script.js"
+                },
+                {
+                    "id": "15",
+                    "path": "Plane.mesh"
+                },
+                {
+                    "id": "16",
+                    "path": "PBR Textures\/Screen Shot 2018-03-22 at 17.png"
+                },
+                {
+                    "id": "17",
+                    "path": "Screen-Shot-2018-03-22-at-17.jpg"
+                }
+            ]
+        }
+    }
+}

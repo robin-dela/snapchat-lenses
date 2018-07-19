@@ -1,0 +1,1132 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1530881815812",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "ChromaKey"
+                    ],
+                    [
+                        "ChromaKey_2"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Particles"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Emitter Material"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Mesh"
+                    ],
+                    [
+                        "Particles",
+                        "Particles Texture"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "ExampleScriptedTweens [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBox [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxDiffuse [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxDiffuse_Alt [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxTextures [REMOVE_ME]"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxTextures [REMOVE_ME]",
+                        "Base"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxTextures [REMOVE_ME]",
+                        "DiffuseEnvmap"
+                    ],
+                    [
+                        "Tween",
+                        "ExampleResources [REMOVE_ME]",
+                        "TweenBoxTextures [REMOVE_ME]",
+                        "Normal"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenManager"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenBillboard"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenColor"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenTransform"
+                    ],
+                    [
+                        "Unlit"
+                    ],
+                    [
+                        "Unlit Textures"
+                    ],
+                    [
+                        "Unlit Textures",
+                        "Base"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "elephant"
+                    ],
+                    [
+                        "ezgif"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Materials",
+                        "metal"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Materials",
+                        "red"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Materials",
+                        "window_glass"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "main_engine"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "rocket_body"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "rocket_body_2"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "small_engine"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "small_engine.2"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "small_engine.3"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "window glass"
+                    ],
+                    [
+                        "retro_rocket",
+                        "Meshes",
+                        "windows"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1530876807978455:20594",
+                    "1530876808171369:20622",
+                    "1530876808400504:20641"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1530865201121964:1253",
+                    "name": "\/Resources\/Resource10",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/doug.holder\/Documents\/TestShader\/Public\/ChromaKey\/chroma_key.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1530865201123354:1265",
+                    "name": "\/Resources\/Resource11.png",
+                    "sourceFilePath": "\/Users\/doug.holder\/Documents\/TestShader\/elephant.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "12",
+                    "uid": "1530865217823049:1372",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1530865573214607:8302",
+                    "name": "\/Resources\/Resource19",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "20",
+                    "uid": "1530865573215161:8314",
+                    "name": "\/Resources\/Resource20.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1530870652701022:99629",
+                    "name": "\/Resources\/Resource25.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/ezgif.com-webp-to-jpg.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1530870746158653:100658",
+                    "name": "\/Resources\/Resource26.png",
+                    "sourceFilePath": "\/Users\/tkim\/VFX\/Textures\/Water:Debris\/FX_Rain_2x2.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1530870746163198:100670",
+                    "name": "\/Resources\/Resource27",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/tkim\/Desktop\/Preset_VFX0\/Public\/World\/Fountain\/GPU-Particle_Preset_Fountain_Splash\/GPU_Particles.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1530870746168373:100682",
+                    "name": "\/Resources\/Resource28.mesh",
+                    "sourceFilePath": "\/Users\/tkim\/Desktop\/fff.fbx",
+                    "additionalProperties": {
+                        "name": "Emitter_1000"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1530876808041044:20604",
+                    "name": "\/Resources\/Resource29",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "red"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "30",
+                    "uid": "1530876808163258:20615",
+                    "name": "\/Resources\/Resource30",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "metal"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "31",
+                    "uid": "1530876808391519:20634",
+                    "name": "\/Resources\/Resource31",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "window_glass"
+                    },
+                    "flags": "5",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "35",
+                    "uid": "1530876808374276:20626",
+                    "name": "\/Resources\/Resource35.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "windows"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1530876808040544:20602",
+                    "name": "\/Resources\/Resource36.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "rocket_body"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "37",
+                    "uid": "1530876808163156:20613",
+                    "name": "\/Resources\/Resource37.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "rocket_body"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "38",
+                    "uid": "1530876808412434:20657",
+                    "name": "\/Resources\/Resource38.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "small_engine.2"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "39",
+                    "uid": "1530876808418018:20665",
+                    "name": "\/Resources\/Resource39.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "small_engine.3"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "40",
+                    "uid": "1530876808391380:20632",
+                    "name": "\/Resources\/Resource40.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "window glass"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "41",
+                    "uid": "1530876808445803:20671",
+                    "name": "\/Resources\/Resource41.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "main_engine"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "42",
+                    "uid": "1530876808406632:20649",
+                    "name": "\/Resources\/Resource42.mesh",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/retro_rocket_fbx\/retro_rocket.fbx",
+                    "additionalProperties": {
+                        "name": "small_engine"
+                    },
+                    "flags": "5",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "47",
+                    "uid": "1530879199953161:37986",
+                    "name": "\/Resources\/Resource47.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "48",
+                    "uid": "1530879199953977:37998",
+                    "name": "\/Resources\/Resource48.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "49",
+                    "uid": "1530879199954422:38010",
+                    "name": "\/Resources\/Resource49.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "50",
+                    "uid": "1530879199954788:38022",
+                    "name": "\/Resources\/Resource50.mesh",
+                    "sourceFilePath": "\/Users\/anton.krasnokutskiy\/build-Studio3D-Desktop_Qt_5_8_0_clang_64bit-Debug\/x64\/products\/LensStudio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/\/meshes\/Box.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "51",
+                    "uid": "1530879199955283:38034",
+                    "name": "\/Resources\/Resource51.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "52",
+                    "uid": "1530879199956341:38046",
+                    "name": "\/Resources\/Resource52",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "53",
+                    "uid": "1530879199957406:38058",
+                    "name": "\/Resources\/Resource53.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "54",
+                    "uid": "1530879199958914:38070",
+                    "name": "\/Resources\/Resource54.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1530879199959851:38082",
+                    "name": "\/Resources\/Resource55.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "56",
+                    "uid": "1530879199960576:38094",
+                    "name": "\/Resources\/Resource56.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1530879199961744:38106",
+                    "name": "\/Resources\/Resource57",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "58",
+                    "uid": "1530879199962714:38118",
+                    "name": "\/Resources\/Resource58.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1530879199963101:38130",
+                    "name": "\/Resources\/Resource59.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1530880371682178:91250",
+                    "name": "\/Resources\/Resource60",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/doug.holder\/Documents\/TestShader\/Public\/ChromaKey\/chroma_key.glsl"
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1530865217813746:1286",
+                "1": "1530865217824447:1381",
+                "2": "1530865217826248:1384",
+                "3": "1530868242001871:72313",
+                "4": "1530870746156537:100652",
+                "5": "1530876807978455:20594",
+                "6": "1530876807981766:20596",
+                "7": "1530876807981807:20598",
+                "8": "1530876808171369:20622",
+                "9": "1530876808374343:20628",
+                "10": "1530876808400504:20641",
+                "11": "1530876808400543:20643",
+                "12": "1530876808400567:20645",
+                "13": "1530876808406688:20651",
+                "14": "1530876808406729:20653",
+                "15": "1530876808412605:20659",
+                "16": "1530876808412662:20661",
+                "17": "1530876808418054:20667",
+                "18": "1530876808445917:20673",
+                "19": "1530876808446151:20679",
+                "20": "1530879199949076:37736",
+                "21": "1530880363462835:90074",
+                "22": "1530880363462847:90077"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Unlit Textures",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Base",
+                                "resourceId": "20",
+                                "extension": "png"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "Particles",
+                        "groups": "",
+                        "resources": [
+                            {
+                                "name": "Particles Texture",
+                                "resourceId": "26",
+                                "extension": "png"
+                            },
+                            {
+                                "name": "Particles Emitter Material",
+                                "resourceId": "27",
+                                "extension": ""
+                            },
+                            {
+                                "name": "Particles Mesh",
+                                "resourceId": "28",
+                                "extension": "mesh"
+                            }
+                        ]
+                    },
+                    {
+                        "name": "retro_rocket",
+                        "groups": [
+                            {
+                                "name": "Materials",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "window_glass",
+                                        "resourceId": "31",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "metal",
+                                        "resourceId": "30",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "red",
+                                        "resourceId": "29",
+                                        "extension": ""
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "Meshes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "rocket_body",
+                                        "resourceId": "36",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "rocket_body_2",
+                                        "resourceId": "37",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "windows",
+                                        "resourceId": "35",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "window glass",
+                                        "resourceId": "40",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "small_engine",
+                                        "resourceId": "42",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "small_engine.2",
+                                        "resourceId": "38",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "small_engine.3",
+                                        "resourceId": "39",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "main_engine",
+                                        "resourceId": "41",
+                                        "extension": "mesh"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": ""
+                    },
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenTransform",
+                                        "resourceId": "48",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenColor",
+                                        "resourceId": "56",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "58",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBillboard",
+                                        "resourceId": "59",
+                                        "extension": "js"
+                                    }
+                                ]
+                            },
+                            {
+                                "name": "ExampleResources [REMOVE_ME]",
+                                "groups": [
+                                    {
+                                        "name": "TweenBoxTextures [REMOVE_ME]",
+                                        "groups": "",
+                                        "resources": [
+                                            {
+                                                "name": "Base",
+                                                "resourceId": "53",
+                                                "extension": "png"
+                                            },
+                                            {
+                                                "name": "DiffuseEnvmap",
+                                                "resourceId": "54",
+                                                "extension": "png"
+                                            },
+                                            {
+                                                "name": "Normal",
+                                                "resourceId": "55",
+                                                "extension": "png"
+                                            }
+                                        ]
+                                    }
+                                ],
+                                "resources": [
+                                    {
+                                        "name": "TweenBox [REMOVE_ME]",
+                                        "resourceId": "50",
+                                        "extension": "mesh"
+                                    },
+                                    {
+                                        "name": "ExampleScriptedTweens [REMOVE_ME]",
+                                        "resourceId": "51",
+                                        "extension": "js"
+                                    },
+                                    {
+                                        "name": "TweenBoxDiffuse [REMOVE_ME]",
+                                        "resourceId": "52",
+                                        "extension": ""
+                                    },
+                                    {
+                                        "name": "TweenBoxDiffuse_Alt [REMOVE_ME]",
+                                        "resourceId": "57",
+                                        "extension": ""
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "47",
+                                "extension": "js"
+                            },
+                            {
+                                "name": "TweenManager",
+                                "resourceId": "49",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "elephant",
+                        "resourceId": "11",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "12",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Unlit",
+                        "resourceId": "19",
+                        "extension": ""
+                    },
+                    {
+                        "name": "ezgif",
+                        "resourceId": "25",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "ChromaKey_2",
+                        "resourceId": "60",
+                        "extension": ""
+                    },
+                    {
+                        "name": "ChromaKey",
+                        "resourceId": "10",
+                        "extension": ""
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "11",
+                    "path": "elephant.png"
+                },
+                {
+                    "id": "20",
+                    "path": "Unlit Textures\/Base.png"
+                },
+                {
+                    "id": "25",
+                    "path": "ezgif.jpg"
+                },
+                {
+                    "id": "26",
+                    "path": "Particles\/Particles Texture.png"
+                },
+                {
+                    "id": "28",
+                    "path": "Particles\/Particles Mesh.mesh"
+                },
+                {
+                    "id": "35",
+                    "path": "retro_rocket\/Meshes\/windows.mesh"
+                },
+                {
+                    "id": "36",
+                    "path": "retro_rocket\/Meshes\/rocket_body.mesh"
+                },
+                {
+                    "id": "37",
+                    "path": "retro_rocket\/Meshes\/rocket_body_2.mesh"
+                },
+                {
+                    "id": "38",
+                    "path": "retro_rocket\/Meshes\/small_engine.2.mesh"
+                },
+                {
+                    "id": "39",
+                    "path": "retro_rocket\/Meshes\/small_engine.3.mesh"
+                },
+                {
+                    "id": "40",
+                    "path": "retro_rocket\/Meshes\/window glass.mesh"
+                },
+                {
+                    "id": "41",
+                    "path": "retro_rocket\/Meshes\/main_engine.mesh"
+                },
+                {
+                    "id": "42",
+                    "path": "retro_rocket\/Meshes\/small_engine.mesh"
+                },
+                {
+                    "id": "47",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "48",
+                    "path": "Tween\/TweenTypes\/TweenTransform.js"
+                },
+                {
+                    "id": "49",
+                    "path": "Tween\/TweenManager.js"
+                },
+                {
+                    "id": "50",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/TweenBox [REMOVE_ME].mesh"
+                },
+                {
+                    "id": "51",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/ExampleScriptedTweens [REMOVE_ME].js"
+                },
+                {
+                    "id": "53",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/TweenBoxTextures [REMOVE_ME]\/Base.png"
+                },
+                {
+                    "id": "54",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/TweenBoxTextures [REMOVE_ME]\/DiffuseEnvmap.png"
+                },
+                {
+                    "id": "55",
+                    "path": "Tween\/ExampleResources [REMOVE_ME]\/TweenBoxTextures [REMOVE_ME]\/Normal.png"
+                },
+                {
+                    "id": "56",
+                    "path": "Tween\/TweenTypes\/TweenColor.js"
+                },
+                {
+                    "id": "58",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "59",
+                    "path": "Tween\/TweenTypes\/TweenBillboard.js"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1530865201121964:1253",
+                        "path_list": [
+                            "ChromaKey"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

@@ -1,0 +1,409 @@
+{
+    "lens_id": "2b49adb6-17a0-4c18-a1ae-92e12c453ca1",
+    "version": "0",
+    "lastChanged": "1531928532861",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Sprite Default"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B41"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4_3"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4s"
+                    ],
+                    [
+                        "coolHue-81FFEF-F067B4w"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1531921523004709:5140"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "6b9b97a2bb7b3a9f0ac4b1792003e798",
+            "icon_path": "icon.png",
+            "hints": [
+                "lens_hint_tap"
+            ],
+            "lens": "CoolHue",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1531920780508799:1909",
+                    "1531928428944279:313804"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1531920410886379:1202",
+                    "name": "\/Resources\/Resource10.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1531926171953165:298686",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "23",
+                    "uid": "1531926221195684:300123",
+                    "name": "\/Resources\/Resource23",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1531927994636543:309809",
+                    "name": "\/Resources\/Resource25.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/coolHue-81FFEF-F067B41.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "26",
+                    "uid": "1531927994754245:309831",
+                    "name": "\/Resources\/Resource26.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/coolHue-81FFEF-F067B4.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1531927994881236:309853",
+                    "name": "\/Resources\/Resource27.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/coolHue-81FFEF-F067B4s.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1531927994997631:309875",
+                    "name": "\/Resources\/Resource28.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/coolHue-81FFEF-F067B4w.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1531928429158505:313837",
+                    "name": "\/Resources\/Resource29",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "32",
+                    "uid": "1531928429170702:313874",
+                    "name": "\/Resources\/Resource32.png",
+                    "sourceFilePath": "\/var\/folders\/_d\/n2378l691995xl6r2qk1ywtw0000gn\/T\/Lens Studio-qpVtFK\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "33",
+                    "uid": "1531928429171529:313883",
+                    "name": "\/Resources\/Resource33.jpg",
+                    "sourceFilePath": "\/var\/folders\/_d\/n2378l691995xl6r2qk1ywtw0000gn\/T\/Lens Studio-qpVtFK\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1531926171943827:298600",
+                "4": "1531926171953687:298695",
+                "5": "1531926171955037:298698",
+                "6": "1531928428938248:313801",
+                "7": "1531928428944279:313804"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "10",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "19",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Sprite Default",
+                        "resourceId": "23",
+                        "extension": ""
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4s",
+                        "resourceId": "27",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4_3",
+                        "resourceId": "26",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B4w",
+                        "resourceId": "28",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "coolHue-81FFEF-F067B41",
+                        "resourceId": "25",
+                        "extension": "jpg"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "25",
+                    "path": "coolHue-81FFEF-F067B41.jpg"
+                },
+                {
+                    "id": "26",
+                    "path": "coolHue-81FFEF-F067B4_3.jpg"
+                },
+                {
+                    "id": "27",
+                    "path": "coolHue-81FFEF-F067B4s.jpg"
+                },
+                {
+                    "id": "28",
+                    "path": "coolHue-81FFEF-F067B4w.jpg"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "objects": [
+                    "1531928428944279:313804"
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}

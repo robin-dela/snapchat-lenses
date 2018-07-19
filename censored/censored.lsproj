@@ -1,0 +1,495 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1531986353396",
+    "preview": "icon.png",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "OpacityCamera Output"
+                    ],
+                    [
+                        "Orthographic Camera Output"
+                    ],
+                    [
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "Tween"
+                    ],
+                    [
+                        "Tween",
+                        "TweenTypes",
+                        "TweenAlpha"
+                    ],
+                    [
+                        "TweenManager"
+                    ],
+                    [
+                        "Unlit"
+                    ],
+                    [
+                        "Unlit_2"
+                    ],
+                    [
+                        "base_post_effect_lookup_table_2"
+                    ],
+                    [
+                        "blurred"
+                    ],
+                    [
+                        "dfg-white"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813",
+                    "1527792925948065:5618",
+                    "1531384434598215:29122",
+                    "1531384881266031:38397"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "icon_hash": "0648293565124ee1418004a3dc4e4dbc",
+            "icon_path": "icon.png",
+            "hints": [
+                ""
+            ],
+            "lens": "Censored",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "false"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                [
+                    "1525234143873050:2228",
+                    "1527792925948065:5618",
+                    "1531386129828539:7795",
+                    "1531387199938996:25654",
+                    "1531387417292885:35348",
+                    "1531387819488366:53433"
+                ]
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                },
+                {
+                    "k": "1",
+                    "v": "21"
+                },
+                {
+                    "k": "2",
+                    "v": "0"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "11",
+                    "uid": "1525125584517649:2971918",
+                    "name": "\/Resources\/Resource11",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "14",
+                    "uid": "1525126121560305:2972750",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1525126129184530:2973255",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "19",
+                    "uid": "1527121248484998:3595",
+                    "name": "OpacityCamera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1531382490460047:2851",
+                    "name": "Orthographic Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "36",
+                    "uid": "1531384309625600:27703",
+                    "name": "\/Resources\/Resource36.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/dfg-white.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "44",
+                    "uid": "1531386062507668:4792",
+                    "name": "\/Resources\/Resource44.js",
+                    "sourceFilePath": "\/Users\/travis.chen\/Desktop\/Tween.js",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "46",
+                    "uid": "1531386062509118:4816",
+                    "name": "\/Resources\/Resource46.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "55",
+                    "uid": "1531386062519464:4924",
+                    "name": "\/Resources\/Resource55.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "57",
+                    "uid": "1531387148424145:23702",
+                    "name": "\/Resources\/Resource57",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "59",
+                    "uid": "1531387755370382:52317",
+                    "name": "\/Resources\/Resource59",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/oleksii.kholovchuk\/Studio3D\/Resources\/Studio3DResources.bundle\/materials\/PostEffectPreset\/Resources\/Resource12\/lookup.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "60",
+                    "uid": "1531387809006901:52895",
+                    "name": "\/Resources\/Resource60.png",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/base_post_effect_lookup_table.png",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "61",
+                    "uid": "1531387819560954:53448",
+                    "name": "\/Resources\/Resource61",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            "\/Users\/mykhailobabenko\/Desktop\/retouch.glsl"
+                        ]
+                    },
+                    "flags": "3",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "64",
+                    "uid": "1531387819571793:53485",
+                    "name": "\/Resources\/Resource64.png",
+                    "sourceFilePath": "\/var\/folders\/_d\/n2378l691995xl6r2qk1ywtw0000gn\/T\/Lens Studio-qTwKDq\/system\/lookup.png",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "65",
+                    "uid": "1531387819572622:53494",
+                    "name": "\/Resources\/Resource65.jpg",
+                    "sourceFilePath": "\/var\/folders\/_d\/n2378l691995xl6r2qk1ywtw0000gn\/T\/Lens Studio-qTwKDq\/system\/retouch_mask.jpg",
+                    "additionalProperties": "",
+                    "flags": "3",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1525125584401344:2971850",
+                "1": "1525125584404045:2971853",
+                "2": "1525125584406321:2971856",
+                "3": "1525126121526609:2972666",
+                "4": "1525126121560418:2972759",
+                "5": "1525126121562914:2972762",
+                "6": "1527120970060325:1856",
+                "7": "1531386062503090:4542",
+                "8": "1531387140705057:22901",
+                "9": "1531387755347088:52296",
+                "10": "1531387819488366:53433"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "3",
+            "showOrthographicLayer": "true",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                },
+                {
+                    "layerId": "2",
+                    "layerName": "Layer 1",
+                    "layerMask": "8"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1531382490460047:2851",
+                        "path_list": [
+                            "blurred"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        },
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": [
+                    {
+                        "name": "Tween",
+                        "groups": [
+                            {
+                                "name": "TweenTypes",
+                                "groups": "",
+                                "resources": [
+                                    {
+                                        "name": "TweenAlpha",
+                                        "resourceId": "55",
+                                        "extension": "js"
+                                    }
+                                ]
+                            }
+                        ],
+                        "resources": [
+                            {
+                                "name": "Tween",
+                                "resourceId": "44",
+                                "extension": "js"
+                            }
+                        ]
+                    }
+                ],
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Orthographic Camera Output",
+                        "resourceId": "14",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Unlit",
+                        "resourceId": "17",
+                        "extension": ""
+                    },
+                    {
+                        "name": "OpacityCamera Output",
+                        "resourceId": "19",
+                        "extension": ""
+                    },
+                    {
+                        "name": "blurred",
+                        "resourceId": "25",
+                        "extension": ""
+                    },
+                    {
+                        "name": "dfg-white",
+                        "resourceId": "36",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "TweenManager",
+                        "resourceId": "46",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "Unlit_2",
+                        "resourceId": "57",
+                        "extension": ""
+                    },
+                    {
+                        "name": "base_post_effect_lookup_table_2",
+                        "resourceId": "60",
+                        "extension": "png"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "36",
+                    "path": "dfg-white.png"
+                },
+                {
+                    "id": "44",
+                    "path": "Tween\/Tween.js"
+                },
+                {
+                    "id": "46",
+                    "path": "TweenManager.js"
+                },
+                {
+                    "id": "55",
+                    "path": "Tween\/TweenTypes\/TweenAlpha.js"
+                },
+                {
+                    "id": "60",
+                    "path": "base_post_effect_lookup_table_2.png"
+                }
+            ]
+        }
+    }
+}

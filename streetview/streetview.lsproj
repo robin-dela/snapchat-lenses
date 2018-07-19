@@ -1,0 +1,369 @@
+{
+    "lens_id": "",
+    "version": "0",
+    "lastChanged": "1531835452071",
+    "preview": "",
+    "isReadOnly": "false",
+    "studioVersion": {
+        "createdWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        },
+        "lastSavedWith": {
+            "type": "Public",
+            "major": "1",
+            "minor": "6",
+            "patch": "2",
+            "build": "0"
+        }
+    },
+    "view": {
+        "ResourceUiComponent": {
+            "collapsedList": [
+                [
+                    [
+                        "42545046155_9a8c9f5a34_k"
+                    ],
+                    [
+                        "PBR"
+                    ],
+                    [
+                        "Script"
+                    ],
+                    [
+                        "Sphere_2"
+                    ],
+                    [
+                        "Street-View-360"
+                    ],
+                    [
+                        "Street-View-36s0"
+                    ],
+                    [
+                        "echopark_diff"
+                    ],
+                    [
+                        "echopark_spec"
+                    ],
+                    [
+                        "image-(1) (1)"
+                    ]
+                ]
+            ]
+        },
+        "SceneTreeUiComponent": {
+            "collapsedList": [
+                [
+                    "1517446348227994:84813"
+                ]
+            ]
+        },
+        "MetaInfoUIComponent": {
+            "hints": "",
+            "lens": "Untitled",
+            "camera": "2",
+            "lens_descriptors": ""
+        },
+        "PreviewUiComponent": {
+            "is_back_camera": "true"
+        },
+        "InspectorUiComponent": {
+            "collapsedList": [
+                ""
+            ]
+        },
+        "LayerUiComponent": {
+            "colorMap": [
+                {
+                    "k": "0",
+                    "v": "20"
+                }
+            ]
+        }
+    },
+    "model": {
+        "ResourceManager": {
+            "list": [
+                {
+                    "resId": "1",
+                    "uid": "1:1",
+                    "name": "Camera Output",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "1"
+                },
+                {
+                    "resId": "2",
+                    "uid": "2:2",
+                    "name": "Camera Input",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "0",
+                    "type": "1",
+                    "subtype": "3"
+                },
+                {
+                    "resId": "8",
+                    "uid": "1517446348230286:84828",
+                    "name": "\/Resources\/Resource8.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "9",
+                    "uid": "1517446348234137:84840",
+                    "name": "\/Resources\/Resource9.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "10",
+                    "uid": "1531816665330200:1202",
+                    "name": "\/Resources\/Resource10.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Desktop\/42545046155_9a8c9f5a34_k.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "16",
+                    "uid": "1531827642004769:1431",
+                    "name": "\/Resources\/Resource16.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/image-(1) (1).jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "17",
+                    "uid": "1531828183620866:5252",
+                    "name": "\/Resources\/Resource17",
+                    "sourceFilePath": "",
+                    "additionalProperties": {
+                        "pass_source": [
+                            ""
+                        ]
+                    },
+                    "flags": "1",
+                    "type": "2",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "25",
+                    "uid": "1531829935658607:11003",
+                    "name": "\/Resources\/Resource25.mesh",
+                    "sourceFilePath": "\/Applications\/Lens Studio.app\/Contents\/MacOS\/\/..\/Resources\/Studio3DResources.bundle\/\/meshes\/Sphere.mesh",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "3",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "27",
+                    "uid": "1531830675854007:20633",
+                    "name": "\/Resources\/Resource27.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "4",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "28",
+                    "uid": "1531830920743905:21645",
+                    "name": "\/Resources\/Resource28.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/Street-View-36s0.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                },
+                {
+                    "resId": "29",
+                    "uid": "1531830923261376:21658",
+                    "name": "\/Resources\/Resource29.jpg",
+                    "sourceFilePath": "\/Users\/robin\/Downloads\/Street-View-360.jpg",
+                    "additionalProperties": "",
+                    "flags": "1",
+                    "type": "1",
+                    "subtype": "0"
+                }
+            ]
+        },
+        "InspectorComponent": {
+            "Component": {
+                "FaceStretchVisual": {
+                    "uidsToFeatureNamesWithIntensity": ""
+                }
+            }
+        },
+        "RenderOrderComponent": {
+            "autoRenderOrder": {
+                "0": "1517446348227994:84813",
+                "1": "1517446348228044:84816",
+                "2": "1517446348228144:84822",
+                "3": "1531816696573180:1263"
+            }
+        },
+        "LayerComponent": {
+            "nextLayerId": "2",
+            "showOrthographicLayer": "false",
+            "layersInfo": [
+                {
+                    "layerId": "0",
+                    "layerName": "Default Layer",
+                    "layerMask": "1"
+                },
+                {
+                    "layerId": "1",
+                    "layerName": "Orthographic Layer",
+                    "layerMask": "1048576"
+                }
+            ]
+        },
+        "WorldComponent": {
+            "sceneFile": "scene.scn"
+        }
+    },
+    "controller": {
+        "ResourceController": {
+            "tree": {
+                "name": "Root",
+                "groups": "",
+                "resources": [
+                    {
+                        "name": "Camera Output",
+                        "resourceId": "1",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Device Camera Texture",
+                        "resourceId": "2",
+                        "extension": ""
+                    },
+                    {
+                        "name": "echopark_diff",
+                        "resourceId": "8",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "echopark_spec",
+                        "resourceId": "9",
+                        "extension": "png"
+                    },
+                    {
+                        "name": "image-(1) (1)",
+                        "resourceId": "16",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Sphere_2",
+                        "resourceId": "25",
+                        "extension": "mesh"
+                    },
+                    {
+                        "name": "Script",
+                        "resourceId": "27",
+                        "extension": "js"
+                    },
+                    {
+                        "name": "PBR",
+                        "resourceId": "17",
+                        "extension": ""
+                    },
+                    {
+                        "name": "Street-View-36s0",
+                        "resourceId": "28",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "42545046155_9a8c9f5a34_k",
+                        "resourceId": "10",
+                        "extension": "jpg"
+                    },
+                    {
+                        "name": "Street-View-360",
+                        "resourceId": "29",
+                        "extension": "jpg"
+                    }
+                ]
+            },
+            "publicAssets": [
+                {
+                    "id": "8",
+                    "path": "echopark_diff.png"
+                },
+                {
+                    "id": "9",
+                    "path": "echopark_spec.png"
+                },
+                {
+                    "id": "10",
+                    "path": "42545046155_9a8c9f5a34_k.jpg"
+                },
+                {
+                    "id": "16",
+                    "path": "image-(1) (1).jpg"
+                },
+                {
+                    "id": "25",
+                    "path": "Sphere_2.mesh"
+                },
+                {
+                    "id": "27",
+                    "path": "Script.js"
+                },
+                {
+                    "id": "28",
+                    "path": "Street-View-36s0.jpg"
+                },
+                {
+                    "id": "29",
+                    "path": "Street-View-360.jpg"
+                }
+            ]
+        },
+        "InspectorController": {
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1531816665330200:1202",
+                        "path_list": [
+                            "42545046155_9a8c9f5a34_k"
+                        ]
+                    }
+                ]
+            }
+        },
+        "EffectsController": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "6": "",
+            "7": "",
+            "8": "",
+            "10": "",
+            "12": ""
+        },
+        "ObjectPrefabController": {
+            "state": {
+                "objectToInfo": ""
+            }
+        }
+    }
+}
