@@ -5,6 +5,7 @@ A bunch of tests on Snapchat [Lens Studio](https://lensstudio.snapchat.com/)
 ---
 
 ## Sky remove (blue remove)
+Test of the chromakey material to remove a color on a live video feed \
 not published
 
 
@@ -18,7 +19,7 @@ not published
 
 ## Pixelated
 
-Camera effect, wrote a tutorial about it [here](https://lensstudio.zendesk.com/hc/en-us/community/posts/360016036886--Tutorial-how-to-create-a-pixelated-lens)
+Camera effect, wrote a tutorial about it [here](https://lensstudio.zendesk.com/hc/en-us/community/posts/360016036886--Tutorial-how-to-create-a-pixelated-lens) \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=7a5800fc714945079033137e6c2c1ec2&metadata=01)
 
 <p align="center">
@@ -31,7 +32,7 @@ Camera effect, wrote a tutorial about it [here](https://lensstudio.zendesk.com/h
 
 ## AR Message
 
-[Experimental, keyboard is resizable if the layout is wrong on your phone], Custom keyboard input as it's not possible in lens studio yet
+[Experimental, keyboard is resizable if the layout is wrong on your phone], Custom keyboard input as it's not possible in lens studio yet \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=947482f0aa1a4160b6a627e869dc37d7&metadata=01)
 
 <p align="center">
@@ -43,7 +44,7 @@ Camera effect, wrote a tutorial about it [here](https://lensstudio.zendesk.com/h
 
 ## Censored
 
-Updated version of my Pixelated lens with the use of masking and face tracking
+Updated version of my Pixelated lens with the use of masking and face tracking \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=efbf6c56f6f546b89cf53f911516c141&metadata=01)
 
 <p align="center">
@@ -55,8 +56,7 @@ Updated version of my Pixelated lens with the use of masking and face tracking
 ---
 
 ## Dancing bear
-First attempt to animate a 3D model with [Mixamo](https://www.mixamo.com/)
-
+First attempt to animate a 3D model with [Mixamo](https://www.mixamo.com/) \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=31c82468722f484da5aa8f07d0865232&metadata=01)
 
 <p align="center">
@@ -68,7 +68,7 @@ First attempt to animate a 3D model with [Mixamo](https://www.mixamo.com/)
 ---
 
 ## Gradient
-Animated gradient effect
+Animated gradient effect \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=35ed1786800e49b18d173dd38ddf9450&metadata=01)
 
 <p align="center">
@@ -82,7 +82,7 @@ Animated gradient effect
 
 ## Rainbow draw
 
-First lens with scripting, used to learn about the UV scrolling, objects creation / duplication with code
+First lens with scripting, used to learn about the UV scrolling, objects creation / duplication with code \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=18ccb02baf5d4554a2d5225787be6968&metadata=01)
 
 <p align="center">
@@ -95,7 +95,7 @@ First lens with scripting, used to learn about the UV scrolling, objects creatio
 
 ## Street view
 
-The idea of this one was to discover a random google maps location on tap, unfortunately external requests are not allowed in snapchat and lens size is limited to 4Mb, which means, about only 8 to 10 panorama images.
+The idea of this one was to discover a random google maps location on tap, unfortunately external requests are not allowed in snapchat and lens size is limited to 4Mb, which means, about only 8 to 10 panorama images. \
 Not published
 
 <p align="center">
@@ -107,7 +107,7 @@ Not published
 
 ## Stack
 
-Just some test with particles
+Just some test with particles \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=888f785be8e340fab4b01a92ddd9bca2&metadata=01)
 
 <p align="center">
@@ -118,7 +118,7 @@ Just some test with particles
 
 ## Resn drop
 
-First lens made, tried to replicate the drop of the [Resn website](http://resn.co.nz/) to learn about 3D import, surface tracking and materials
+First lens made, tried to replicate the drop of the [Resn website](http://resn.co.nz/) to learn about 3D import, surface tracking and materials \
 [link](https://www.snapchat.com/unlock/?type=SNAPCODE&uuid=7d5003fdbb944f3e8fe87f06d753d023&metadata=01)
 
 <p align="center">
